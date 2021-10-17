@@ -16,6 +16,8 @@ By applying correlation method to housing prices, the relationship of each attri
 
 Finally, a comparison of linear regression model metric was made on using all categorical features and using categorical feature selection by Chi Square. Indeed using all categorical features pull downs the performance of the model. The method of categorical feature selecton by correlation method is comparable to the Chi Square method. 
 
+## Files
+This repo contains data in folder, a python jupyter and read me.
 ## Python libraries requirements:
 1. Pandas
 2. Numpy
